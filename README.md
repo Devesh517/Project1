@@ -1,2 +1,2 @@
-# Project1
+# JAVA
 My first project that i have made by using java.
